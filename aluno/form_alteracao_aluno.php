@@ -6,6 +6,7 @@
  
  $id = $_GET["id"];
  $al = recupera_aluno($id);
+ 
 ?>
 
 <html>
